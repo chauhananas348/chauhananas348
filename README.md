@@ -1,6 +1,22 @@
-## Hi there 👋
+##  BACKGROUND 👋
 
-<h2 align="left">Hi 👋! My name is Anas Chauhan and I'm a ..., from ....</h2>
+<h2 align="left">👋 Hi ! I'm Anas Chauhan  
+
+🎓 IT Engineering Student | 💻 Tech Explorer | 🚀 Lifelong Learner  
+
+---
+
+## 🔧 Tech Stack & Interests  
+- 🌐 Web Development (Frontend + Backend)  
+- 📱 Software Engineering & Problem Solving  
+- ⚡ Open Source & New Technologies  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced Programming Concepts  
+- Modern Web Frameworks  
+- Git & GitHub for Collaboration ..., from ....</h2>
 
 ###
 
