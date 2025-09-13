@@ -2,7 +2,10 @@
 
 <h2 align="left">👋 Hi ! I'm Anas Chauhan  
 
-🎓 IT Engineering Student | 💻 Tech Explorer | 🚀 Lifelong Learner  
+
+🎓 IT Engineering Student | 
+💻 Tech Explorer | 
+🚀 Lifelong Learner  
 
 ---
 
