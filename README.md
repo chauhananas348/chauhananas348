@@ -16,11 +16,6 @@
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Programming Concepts  
-- Modern Web Frameworks  
-- Git & GitHub for Collaboration ..., from ....</h2>
-
 ###
 
 <div align="center">
